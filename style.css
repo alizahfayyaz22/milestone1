@@ -1,0 +1,93 @@
+
+.intro{
+    color:white;
+}
+#image2{
+    height: 6%;
+    width: 6%;
+    color:azure;
+}
+#image2{
+    display: inline;
+}
+#image3{
+    height: 6%;
+    width: 6%;
+    color:azure;
+}
+#image3{
+    display: inline;
+}
+.resume-container{
+    color: white;
+    display: flex;
+    margin:0 auto;
+    border-radius: 10px;
+    /* box-shadow: ; */
+    width:80%;
+
+}
+.right-container{
+    background-color: beige;
+    padding: 20px;
+    width:65%;
+}
+
+body{
+background-color: whitesmoke;
+padding:150px;
+
+}
+/* Styling for the content and button */
+
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+ 
+ #toggle-skills{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size:18px;
+    background-color: #007bff;
+    color:aliceblue;
+    display: flex;
+  justify-content: center;
+  align-items: center; }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  .left-container{
+    background-color: black;
+    height:auto;
+    width:20%;
+    padding: 20px;
+    width:35%;
+    /* text-align: center; */
+    border-right:5px solid #007bff;
+
+  }
+  .profile-picture{
+    border-radius: 50%;
+    width:150px;
+    height: 150px;
+    margin-bottom: 20px;
+    
+    
+  }
+
+  
